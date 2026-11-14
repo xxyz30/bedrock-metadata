@@ -1,0 +1,15 @@
+{
+  "name": "@minecraft/server-editor-private-bindings",
+  "version": "0.1.0-internal.1.26.52",
+  "description": "Type declarations for Minecraft Bedrock's private server-editor bindings module.",
+  "license": "MIT",
+  "types": "index.d.ts",
+  "files": [
+    "index.d.ts",
+    "npm/server-editor-private-bindings/index.d.ts"
+  ],
+  "peerDependencies": {
+    "@minecraft/common": "1.2.0",
+    "@minecraft/server": "2.11.0-beta.1.26.52-stable"
+  }
+}
